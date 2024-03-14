@@ -58,6 +58,13 @@ void insertionsort() {
             
 }
 
+void display() {
+    cout << endl;
+    cout << "====================" << endl;
+    cout << "Element Array yang telah tersusun" << endl;
+    cout << "====================" << endl;
+}
+
 int main()
 {
     
